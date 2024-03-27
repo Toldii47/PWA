@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#8535f6",
+"background_color" : "#bb35f6",
+"display" : "fullscreen",
+"scope" : "/",
+"start_url" : "/PWA/",
+"name" : "Koteczki",
+"short_name" : "Kot",
+"description" : "strona responsywna",
+"icons" : [
+    {
+        "src" : "./logo.png",
+        "sizes" : "512x512",
+        "type" : "image/png"
+    }
+]
+}
